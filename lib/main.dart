@@ -265,7 +265,6 @@ class _HomePageState extends State<HomePage> {
   }
 
   void initMarker() {
-    positionBusList.add(const LatLng(21.02362849, 105.8572358));
     positionBusList.add(const LatLng(21.02394896, 105.8572412));
     positionBusList.add(const LatLng(21.02496667, 105.85675));
     positionBusList.add(const LatLng(21.02696667, 105.8561333));
@@ -274,9 +273,10 @@ class _HomePageState extends State<HomePage> {
     positionBusList.add(const LatLng(21.04213333, 105.8488667));
     positionBusList.add(const LatLng(21.04941667, 105.83885));
     positionBusList.add(const LatLng(21.04716667, 105.8369333));
+    positionBusList.add(const LatLng(21.04363333, 105.8347833));
     positionBusList.add(const LatLng(21.04363333, 105.833));
     positionBusList.add(const LatLng(21.0448, 105.81735));
-    positionBusList.add(const LatLng(221.05223333, 105.8126833));
+    positionBusList.add(const LatLng(21.05223333, 105.8126833));
     positionBusList.add(const LatLng(21.05543333, 105.8114833));
     positionBusList.add(const LatLng(21.0676, 105.8117333));
     positionBusList.add(const LatLng(21.06985, 105.8132333));
@@ -290,8 +290,6 @@ class _HomePageState extends State<HomePage> {
     positionBusList.add(const LatLng(21.02591667, 105.8468333));
     positionBusList.add(const LatLng(21.02451667, 105.8464833));
     positionBusList.add(const LatLng(21.0228, 105.8564833));
-    positionBusList.add(const LatLng(21.0228173, 105.8574718));
-
     // positionBusList.add(const LatLng(21.03185029, 105.8525902));
     // positionBusList.add(const LatLng(21.031800, 105.851950));
     // positionBusList.add(const LatLng(21.03383333, 105.8507833));
